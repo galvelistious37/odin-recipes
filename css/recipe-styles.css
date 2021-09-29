@@ -1,0 +1,74 @@
+body {
+    background-color: lightgrey;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.nav-links {
+    margin-top: 20px;
+    background-color:whitesmoke;
+}
+
+.main,
+.lasagna,
+.chicken-burrito,
+.steak,
+div,
+img {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    text-align: center;
+}
+
+.main {
+    background-color: whitesmoke;
+}
+
+.lasagna {
+    background-color: rgb(231, 122, 122);
+}
+
+.chicken-burrito {
+    background-color: rgb(238, 238, 148);
+}
+
+.steak {
+    background-color: rgb(129, 89, 89);
+}
+
+img {
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+
+div {
+    width: 75%;
+    border-style: solid;
+    background-color: whitesmoke;
+}
+
+.lasagna-div {
+    border-color: rgb(231, 122, 122);
+}
+
+.chicken-burrito-div {
+    border-color: rgb(238, 238, 148);
+}
+
+.steak-div {
+    border-color: rgb(129, 89, 89);
+}
+
+ul, ol {
+    text-align: left;
+    margin-top: -20px;
+}
+
+h2, h3 {
+    border-top: solid;
+    background-color: white;
+}
+
+
